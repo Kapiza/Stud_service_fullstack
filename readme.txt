@@ -1,0 +1,1 @@
+use Stud_service.bat for run app
