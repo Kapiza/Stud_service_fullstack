@@ -1,0 +1,3 @@
+[submodule "stud_service_frontend"]
+	path = stud_service_frontend
+	url = https://github.com/Kapiza/stud_service_frontend.git
